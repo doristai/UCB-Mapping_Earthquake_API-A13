@@ -21,4 +21,10 @@ Satellite View![image](https://user-images.githubusercontent.com/70616488/124058
 
 Dark View![image](https://user-images.githubusercontent.com/70616488/124058197-c15c8d00-d9dd-11eb-9b72-70be8d5183b7.png)
 
+## Resources
+
+- Data Source: Earthquakes GeoJSON, Earthquakes above 4.5mag GeoJSON, Tectonic Plate GeoJSON
+
+- Software: HTML/CSS, JavaScript, Visual Studio Code 1.49.1, Leaflet 1.7.1, D3.js 6.2.0
+
 
